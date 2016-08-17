@@ -11,6 +11,8 @@ public class ScannerInput {
         System.out.println(in.nextInt());
         System.out.println(in.next());
         System.out.println(in.nextInt());
+
+        int i=0,j=1;
     }
 
 }
